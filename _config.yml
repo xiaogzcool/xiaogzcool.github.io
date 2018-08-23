@@ -4,11 +4,11 @@
 
 # Site
 title: 霄公子的博客
-subtitle:
-description:
+subtitle: 技术积累
+description: 积累平时学到的东西
 keywords:
-author: 阿霄
-language:
+author: 霄公子
+language: zh-Hans
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
