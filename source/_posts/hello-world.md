@@ -1,7 +1,7 @@
 ---
 title: 霄公子的博客
 ---
-Welcome to [my blog](https://xiaogzcool.top/)! 
+Welcome to [my blog](https://www.xiaogzcool.top/)! 
 ## Quick Start
 
 ### Create a new post
