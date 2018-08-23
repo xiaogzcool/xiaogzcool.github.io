@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90ce7821-f8b7-4e8b-a7d5-4301538bdb3e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" />
       <change beforePath="$PROJECT_DIR$/themes/next" afterPath="$PROJECT_DIR$/themes/next" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -277,7 +275,7 @@
       <option name="presentableId" value="Default" />
       <updated>1535004847711</updated>
       <workItem from="1535004849845" duration="2525000" />
-      <workItem from="1535011126834" duration="39000" />
+      <workItem from="1535011126834" duration="610000" />
     </task>
     <task id="LOCAL-00001" summary="更换主题">
       <created>1535009479769</created>
@@ -290,7 +288,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2564000" />
+    <option name="totallyTimeSpent" value="3135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
