@@ -1,37 +1,13 @@
 ---
 title: 霄公子的博客
 ---
-Welcome to [my blog](https://www.xiaogzcool.top/)! 
+Welcome to [My Blog](https://www.xiaogzcool.top/)! 
 ## Quick Start
 
-### Create a new post
+### First Blood
 
 ``` bash
-$ hexo new "My New Post"
+第一篇文章了解一下
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+More info: [LOVE](https://hexo.io/docs/writing.html)
