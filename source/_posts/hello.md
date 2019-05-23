@@ -1,6 +1,6 @@
-﻿--------
-title:today
--------
+﻿---
+title: today
+---
 ####name:霄公子
 
 
