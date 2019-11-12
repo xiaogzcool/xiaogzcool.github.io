@@ -135,7 +135,7 @@ scheme: Pisces
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
-  #Instagram: https://instagram.com/yourname || instagram
+#Instagram: https://instagram.com/yourname || instagram
 #Skype: skype:yourname?call|chat || skype
 
 social_icons:
@@ -148,13 +148,13 @@ links_icon: link
 links_title: Links
 links_layout: block
   #links_layout: inline
-  #links:
+#links:
 #Title: http://example.com/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-#avatar: /images/avatar.gif
+avatar: /images/blog-pic.jpg
 
 # Table Of Contents in the Sidebar
 toc:
@@ -214,9 +214,9 @@ save_scroll: false
 excerpt_description: true
 
 # Automatically Excerpt. Not recommend.
-# Please use <!-- more --> in the post to control excerpt accurately.
+# Please use <!-- more --> in the post to control excerpt accurately.不显示全文设置
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 # Post meta display settings
