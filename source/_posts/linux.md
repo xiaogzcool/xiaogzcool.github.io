@@ -1,4 +1,8 @@
-## 								linux常用命令
+---
+title: linux常用命令
+tags: linux 
+---
+
 
 * 卸载 Ubuntu 自带的 openjdk 的方法：
 

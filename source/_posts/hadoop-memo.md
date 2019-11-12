@@ -1,4 +1,8 @@
-### hadoop备忘录
+---
+title: hadoop备忘录
+date: 2019-11-01
+tags: hadoop
+---
 
 - 分布式系统
 
